@@ -21,6 +21,8 @@ Connect a data usb cable to the MKR NB 1500 and a computer with the Arduino IDE 
 
 Change the port where the Arduino MKR NB 1500 is connected.
 
+Copy the sketch code, from the sketch folder in this repo, (or load it) into the Arduino IDE window 
+
 Open serial monitor and click the upload button in the Arduino IDE. 
 
 If everything works you should see "Incoming Message: Hello MQTT world" appear in the serial output box once the device has a connection. 
