@@ -10,7 +10,7 @@ This sketch demonstrates how to;
 1. A Telstra Arduino MKR NB 1500 board.
 1. A Telstra SIM card with an active subscription.
 1. A Mosquitto instance (demo one included in the sketch)
-1. A computer with the Arduino IDE installed 
+1. A computer with Arduino IDE installed 
 1. Install the Arduino MKRNB and PubSubClient libraries via Sketch > Manage Libraries
 
 ## How to run
