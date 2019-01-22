@@ -2,8 +2,8 @@
 
 This sketch demonstrates how to;
 
-- Connect to a mosquitto broker using the pubsub library
-- Subscribe and Publish to a topic
+- Connect to a mosquitto broker using the pubsub and Arduino MQTT Client library
+- Subscribe and Publish to a topic via a broker
 
 ## Prerequisites
 
