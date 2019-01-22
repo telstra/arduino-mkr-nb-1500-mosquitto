@@ -82,7 +82,7 @@ void loop() {
   delay(2000);
 
   mqttClient.beginMessage(topic);
-  mqttClient.print("hello world ");
+  mqttClient.print("Hello MQTT world");
   mqttClient.endMessage();
 
 }
